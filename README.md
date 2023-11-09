@@ -1,1 +1,3 @@
-# Brew-website
+# Brewsky
+
+Brewsky using Brewery API
